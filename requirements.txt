@@ -1,0 +1,2 @@
+alpaca-py
+alpaca~=1.0.0
